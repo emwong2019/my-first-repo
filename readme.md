@@ -1,30 +1,20 @@
-# This is a large heading
+# EeMing
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The form of things "unknown", the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Shanghai China
 
-- This is 
-- an unordered
-- list
+Favourite food
+- bak kut teh
+- chicken rice
+- char kuay teow
 
-1. This is 
-2. an ordered
-3. list
+Favourite cities
 
-Here is 'some code' in the middle of a sentence.
+1. Kuala Lumpur
+2. Bangkok
+3. Jakarta
 
-'''
-This is 
-a block 
-of code
-'''
 
-Here is how you make [a link](https://www.wikipedia.org/)
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
 
